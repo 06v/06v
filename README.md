@@ -1,5 +1,4 @@
 - 👋 Hi, I’m enes
 - 👀 I’m interested in IT Security & Databases
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...?
-- 📫 How to reach me: Discord -> enes#0006
+- 📫 Feel free to contact me on Discord -> enes#0006
