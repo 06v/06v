@@ -1,4 +1,4 @@
 - 👋 Hi, they call me Enes!
-- 👨‍💻 I’m interested in IT Security & Databases
+- 👻 I’m interested in IT Security & Databases
 - 💻 Learning Web Development at the moment
 - 📫 Feel free to contact me on Discord -> enes#0006
