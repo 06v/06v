@@ -1,4 +1,4 @@
-- 👋 Hi, they call me Enes!
+- 👋 Hi, they call me Enes
 - 👻 I’m interested in IT Security & Databases
 - 💻 At the moment I'm learning Web Development
 - 📫 Feel free to contact me on Discord -> enes#0006
