@@ -2,4 +2,4 @@
 - 👻 I’m interested in IT Security and Python Programming
 - 💻 At the moment I'm learning Web Development and C++
 - 👨🏻‍🎨 Take a look at my Website [here](https://enes.vip/)
-- 📫 Feel free to contact me on Discord -> Gamepap#0001
+- 📫 Feel free to contact me on Discord -> Gamepad#0001
