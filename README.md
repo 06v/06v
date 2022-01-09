@@ -1,7 +1,6 @@
 👋 Hi, they call me Enes  
 👻 I’m interested in IT Security and Python Programming  
-💻 At the moment I'm learning Java, C++ and soon C#
-
+💻 At the moment I'm learning Java, C++ and soon C# 
 👨🏻‍🎨 Take a look at my Website [here](https://dead.wtf/)  
 📫 Feel free to contact me on Discord -> enes#5555
   
