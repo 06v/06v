@@ -1,8 +1,18 @@
-👋 Hi, they call me Enes  
-👻 I’m interested in IT Security and Python Programming  
-💻 At the moment I'm learning Java, C++ and soon C# 
+<h1 align="center">
+Enes 👹<br />
+<img src="https://komarev.com/ghpvc/?username=accomodate" />
+</h1>
 
-👨🏻‍🎨 Take a look at my Website [here](https://dead.wtf/)  
-📫 Feel free to contact me on Discord -> enes#5555
-  
-![Me at the moment](https://cdn.discordapp.com/attachments/905006804545708062/910828579321950249/fwiend.png)
+<pre>
+- Currently learning:    Java & C++
+- Interested in:         Python, IT-Security, Networks
+- Founder of:            https://discord.kamisniper.com/
+- Discord:               enes#5555 [892834104947650591]
+- Website:               https://dead.wtf/ & https://museno.xyz/
+</pre>
+
+<p align="center">
+<img height= "160" src="https://github-readme-stats.vercel.app/api?username=accomodate&show_icons=true&include_all_commits=true&theme=dark" />
+<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accomodate&layout=compact&theme=dark" />
+<img height= "190" src="https://github-readme-streak-stats.herokuapp.com/?user=accomodate&theme=dark" />
+</p>
