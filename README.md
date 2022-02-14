@@ -6,7 +6,7 @@ Enes 👹<br />
 <pre>
 - Currently learning:    Java & C++
 - Interested in:         Python, IT-Security, Networks
-- Founder of:            [Kami Sniper](https://discord.kamisniper.com/)
+- Founder of:            (Kami Sniper)[https://discord.kamisniper.com/]
 - Discord:               enes#5555 [892834104947650591]
 - Website:               [dead.wtf](https://dead.wtf/) & [museno.xyz](https://museno.xyz/)
 </pre>
