@@ -8,7 +8,7 @@ Enes 👹<br />
 - Interested in:         Python, IT-Security, Networks
 - Founder of:            Kami Services -> https://discord.kamisniper.com/
 - Discord:               enes#5555 [892834104947650591]
-- Website:               https://dead.wtf/ & https://museno.xyz/
+- Website:               https://dead.wtf/ & https://enes.vip/
 </pre>
 
 <p align="center">
