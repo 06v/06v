@@ -6,7 +6,7 @@ Enes 👹<br />
 <pre>
 - Currently learning:    Java & C++ & JS & Go & HTML
 - Interested in:         Python, IT-Security, Networks
-- Founder of:            Kami Services -> https://kamisniper.com/
+- Founder of:            what a wonderful world
 - Discord:               enes#5555 [892834104947650591]
 - Website:               https://enes.vip/
 </pre>
