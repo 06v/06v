@@ -4,7 +4,7 @@ Enes 👹<br />
 </h1>
 
 <pre>
-- Currently learning:    Java & C++ & JS & Go & HTML
+- Currently learning:    Java, C++, JS, Go & HTML
 - Interested in:         Python, IT-Security, Networks
 - Founder of:            what a wonderful world
 - Discord:               enes#5555 [892834104947650591]
