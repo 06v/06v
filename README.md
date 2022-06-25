@@ -48,7 +48,6 @@
 
 <h2 align="center">GitHub Stats 📈</h2>
 <div align="center" class="row justify-content-around">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=accomodate
-                         &show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=accomodate&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accomodate&layout=compact&theme=dracula&hide_border=true" />
 </div>
