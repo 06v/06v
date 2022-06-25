@@ -30,16 +30,15 @@
 
 <h3>Operating Systems</h3>
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![RetroPie](https://img.shields.io/badge/retropie-E95420?style=for-the-badge&logo=retropie&logoColor=white)
 
 
 <h3>Servers</h3>
 
-![Apache](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Windows 2019](https://img.shields.io/badge/windows%20server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <h3>IDEs</h3>
