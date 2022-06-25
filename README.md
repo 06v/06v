@@ -24,7 +24,7 @@
 
 <h3>Databases</h3>
 
-![MariaDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%234ea94b.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3>Operating Systems</h3>
