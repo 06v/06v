@@ -1,24 +1,3 @@
-<h1 align="center">
-Enes 👹<br />
-<img src="https://komarev.com/ghpvc/?username=accomodate" />
-</h1>
-
-<pre>
-- Currently learning:    Java, C++, JS, Go, HTML & Flask
-- Interested in:         Python, IT-Security, Networks
-- Founder of:            Kiba Username Sniping Service
-- Discord:               enes#5555 [892834104947650591]
-- Website:               https://enes.vip/
-</pre>
-
-<p align="center">
-<img height= "160" src="https://github-readme-stats.vercel.app/api?username=accomodate&show_icons=true&include_all_commits=true&theme=dark" />
-<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accomodate&layout=compact&theme=dark" />
-<img height= "190" src="https://github-readme-streak-stats.herokuapp.com/?user=accomodate&theme=dark" />
-</p>
-
-
-
 <h1 align="center">Hi there, I'm Enes! 👋</h1>
 <p align="center">
   <span><a href="https://github.com/accomodate/"><img src="https://socialize-md.vercel.app/api/badge/github" alt="github" /></a></span>
