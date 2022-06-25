@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Enes! 👋</h1>
-<p align="center">
+<p align="center" style="width: 100px;">
   <span><a href="https://github.com/accomodate/"><img src="https://socialize-md.vercel.app/api/badge/github" alt="github" /></a></span>
   <span><a href="https://www.instagram.com/enesvierzwei/"><img src="https://socialize-md.vercel.app/api/badge/instagram" alt="instagram" /></a></span>
   <span><a href="https://www.twitter.com/daddyenes/"><img src="https://socialize-md.vercel.app/api/badge/twitter" alt="twitter" /></a></span>
