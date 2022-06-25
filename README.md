@@ -4,9 +4,9 @@ Enes 👹<br />
 </h1>
 
 <pre>
-- Currently learning:    Java, C++, JS, Go & HTML
+- Currently learning:    Java, C++, JS, Go, HTML & Flask
 - Interested in:         Python, IT-Security, Networks
-- Founder of:            what a wonderful world
+- Founder of:            Kiba Username Sniping Service
 - Discord:               enes#5555 [892834104947650591]
 - Website:               https://enes.vip/
 </pre>
