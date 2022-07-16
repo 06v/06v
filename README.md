@@ -7,7 +7,7 @@
   <span><a href="https://discords.com/bio/p/gore"><img src="https://socialize-md.vercel.app/api/badge/discord" alt="discord" /></a></span>
 </p>
 
-<h2 align="center">Technical Skills ⚔</h2>
+<h2 align="left">Technical Skills ⚔</h2>
 
 <h3>Languages</h3>
 
