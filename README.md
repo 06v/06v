@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Enes! 👋</h1>
 <p align="center">
-  <span><a href="https://github.com/accomodate/"><img src="https://socialize-md.vercel.app/api/badge/github" alt="github" /></a></span>
+  <span><a href="https://github.com/06v/"><img src="https://socialize-md.vercel.app/api/badge/github" alt="github" /></a></span>
   <span><a href="https://www.instagram.com/enesvierzwei/"><img src="https://socialize-md.vercel.app/api/badge/instagram" alt="instagram" /></a></span>
   <span><a href="https://www.twitter.com/daddyenes/"><img src="https://socialize-md.vercel.app/api/badge/twitter" alt="twitter" /></a></span>
   <span><a href="mailto:contact@enes.vip"><img src="https://socialize-md.vercel.app/api/badge/mail" alt="mail" /></a></span>
@@ -48,6 +48,6 @@
 
 <h2 align="center">GitHub Stats 📈</h2>
 <div align="center" class="row justify-content-around">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=accomodate&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accomodate&layout=compact&theme=dracula&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=06v&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=06v&layout=compact&theme=dracula&hide_border=true" />
 </div>
